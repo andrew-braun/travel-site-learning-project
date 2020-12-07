@@ -1,7 +1,15 @@
+$mainBlue: #2f5572;
+
 * {
 	box-sizing: border-box;
 }
 
 body {
-	color: orange;
+	color: black;
+}
+
+.large-hero {
+	h2 {
+		color: $mainBlue;
+	}
 }
