@@ -1,0 +1,11 @@
+$mainBlue: #2f5572;
+$darkGray: #2f2f2f;
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: black;
+	font-family: "Roboto", sans-serif;
+}

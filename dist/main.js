@@ -1,1 +1,0 @@
-alert("That's annoying");
