@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/andrew-braun/travel-site-learning-project#readme",
 	"dependencies": {
 		"autoprefixer": "^10.1.0",
-		"lodash": "^4.17.20",
+		"lodash": "^4.17.21",
 		"normalize.css": "^8.0.1"
 	},
 	"devDependencies": {
